@@ -84,3 +84,5 @@ JUPYTER NOTEBOOK
 
 ![Image](https://github.com/user-attachments/assets/08908d32-479f-4e72-a924-a1ab76bbde41)
 
+![Image](https://github.com/user-attachments/assets/ac62cb82-4ce7-4974-9fcb-9836e061691b)
+
