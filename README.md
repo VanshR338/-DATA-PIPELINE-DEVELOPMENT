@@ -79,3 +79,8 @@ Pipelines are essential in processing large volumes of financial transactions, e
 ##Software Used##
 
 JUPYTER NOTEBOOK
+
+##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/08908d32-479f-4e72-a924-a1ab76bbde41)
+
