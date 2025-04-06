@@ -1,0 +1,8 @@
+id,name,age,gender,salary,city
+1,John,28,Male,50000,New York
+2,Sarah,35,Female,60000,San Francisco
+3,David,NaN,Male,55000,Los Angeles
+4,Linda,30,Female,NaN,Chicago
+5,Michael,40,Male,75000,NaN
+6,Sophie,25,Female,48000,Seattle
+7,Vansh,NaN,Male,NaN,India
